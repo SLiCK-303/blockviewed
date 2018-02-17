@@ -6,7 +6,7 @@ Adds a block displaying recently viewed products.
 
 ## Contributing
 
-PrestaShop modules are open-source extensions to the PrestaShop e-commerce solution. Everyone is welcome and even encouraged to contribute with their own improvements.
+thirty bees modules are open-source extensions to the thirty bees e-commerce solution. Everyone is welcome and even encouraged to contribute with their own improvements.
 
 ### Requirements
 
